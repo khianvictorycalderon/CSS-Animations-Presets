@@ -47,3 +47,4 @@ Feel free to suggest improvements or new animations by opening an issue or submi
 ## License
 This project is open-source and free to use in any project.
 
+
